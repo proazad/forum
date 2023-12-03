@@ -1,0 +1,53 @@
+.tagCard {
+    width: 100%;
+    max-width: 220px;
+    height: 70px;
+    border: 1px solid rgba(204, 137, 200, 0.788);
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    backdrop-filter: blur(10px);
+    transition: 0.5s ease-in-out;
+  }
+  
+  .tagCard:hover {
+    cursor: pointer;
+    transform: scale(1.05);
+  }
+  
+ 
+  
+  .tagCard:hover > .img {
+    transition: 0.5s ease-in-out;
+    background: linear-gradient(#9198e5, #712020);
+  }
+  
+  .textBox {
+    width: calc(100% - 90px);
+    margin-left: 10px;
+    color: rgb(0, 0, 0);
+    font-family: 'Poppins' sans-serif;
+  }
+  
+  .textContent {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .span {
+    font-size: 10px;
+  }
+  
+  .h1 {
+    font-size: 16px;
+    font-weight: bold;
+  }
+  
+  .p {
+    font-size: 12px;
+    font-weight: lighter;
+  }
+  
+  

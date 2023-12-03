@@ -1,0 +1,40 @@
+.polularityBtn {
+  display: inline-block;
+  border-radius: 4px;
+  background-color: #3d405b;
+  border: none;
+  color: #ffffff;
+  text-align: center;
+  font-size: 15px;
+  padding: 6px;
+  width: 155px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin-top: 5px;
+  margin-bottom: 20px;
+}
+
+.polularityBtn span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.polularityBtn span:after {
+  content: "»";
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -15px;
+  transition: 0.5s;
+}
+
+.polularityBtn:hover span {
+  padding-right: 15px;
+}
+
+.polularityBtn:hover span:after {
+  opacity: 1;
+  right: 0;
+}

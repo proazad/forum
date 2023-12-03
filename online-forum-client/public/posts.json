@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "author": {
+      "name": "Alice Johnson",
+      "picture": "https://placekitten.com/110/110"
+    },
+    "title": "Introduction to Web Development",
+    "tags": "Web Development",
+    "thumbnail": "https://placekitten.com/210/210",
+    "time": "1 hour ago",
+    "commentsCount": 12,
+    "votesCount": 28
+  },
+  {
+    "id": 2,
+    "author": {
+      "name": "Bob Williams",
+      "picture": "https://placekitten.com/111/111"
+    },
+    "title": "Getting Started with React",
+    "tags": "React",
+    "thumbnail": "https://placekitten.com/211/211",
+    "time": "2 hours ago",
+    "commentsCount": 18,
+    "votesCount": 32
+  },
+  {
+    "id": 3,
+    "author": {
+      "name": "Charlie Davis",
+      "picture": "https://placekitten.com/112/112"
+    },
+    "title": "Python Basics for Beginners",
+    "tags": "Python",
+    "thumbnail": "https://placekitten.com/212/212",
+    "time": "3 hours ago",
+    "commentsCount": 15,
+    "votesCount": 25
+  },
+  {
+    "id": 4,
+    "author": {
+      "name": "Diana Smith",
+      "picture": "https://placekitten.com/113/113"
+    },
+    "title": "Mobile App Development Tips",
+    "tags": "Mobile App Development",
+    "thumbnail": "https://placekitten.com/213/213",
+    "time": "4 hours ago",
+    "commentsCount": 20,
+    "votesCount": 30
+  },
+  {
+    "id": 5,
+    "author": {
+      "name": "Eva Brown",
+      "picture": "https://placekitten.com/114/114"
+    },
+    "title": "JavaScript Best Practices",
+    "tags": "JavaScript",
+    "thumbnail": "https://placekitten.com/214/214",
+    "time": "5 hours ago",
+    "commentsCount": 22,
+    "votesCount": 36
+  },
+  {
+    "id": 6,
+    "author": {
+      "name": "Frank Miller",
+      "picture": "https://placekitten.com/115/115"
+    },
+    "title": "Data Science Fundamentals",
+    "tags": "Data Science",
+    "thumbnail": "https://placekitten.com/215/215",
+    "time": "6 hours ago",
+    "commentsCount": 17,
+    "votesCount": 29
+  }
+]
